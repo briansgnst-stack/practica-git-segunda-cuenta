@@ -1,0 +1,15 @@
+Evidencia de la práctica Git - Repositorios Remotos:
+
+Repositorio Primera Cuenta (payechingo1512-png): 
+https://github.com/payechingo1512-png/practica-git-primera-cuenta
+
+Repositorio Segunda Cuenta (briansgnst-stack): 
+https://github.com/briansgnst-stack/practica-git-segunda-cuenta
+
+Verificación exitosa:
+- ✅ Ambos repositorios tienen exactamente 3 commits
+- ✅ Las fechas de los commits coinciden
+- ✅ El contenido es idéntico en ambos repositorios
+- ✅ Conexión remota configurada correctamente a la segunda cuenta
+
+Práctica completada: Wed Oct 29 01:15:05     2025
